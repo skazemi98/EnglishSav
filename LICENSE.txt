@@ -1,0 +1,11 @@
+EnglishSav
+Copyright (c) 2026 the EnglishSav developer. All rights reserved.
+
+This software, its source code, and its original content are proprietary.
+You may download and install the official EnglishSav app for personal use.
+You may not copy, modify, decompile for redistribution, resell, or
+redistribute the app or its content, except as allowed by the licences of
+the third-party parts listed in THIRD-PARTY-NOTICES.txt (also shown in the
+app under Settings, then About).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
